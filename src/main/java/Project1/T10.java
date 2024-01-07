@@ -1,4 +1,4 @@
-package org.example;
+package Project1;
 
 public class T10 {
     public static void main(String[] args) {
